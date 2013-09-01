@@ -11,7 +11,8 @@ The execution will then be done from the command line as shown below:
 
 java -jar http-client-tester.jar --user admin -passwd admin -modeldir /tmp/bob
 
-where 
+where: 
+    
     user - will be the user to log into server as
     
     passwd - will be the password for that user
